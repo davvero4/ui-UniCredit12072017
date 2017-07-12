@@ -85,7 +85,7 @@ function orderItem(itemID){
 </script>
 <html>
 <head>
-	<title>Unicredit DevOps Demo</title>
+	<title>Unicredit DevOps Demo 12072017</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<link rel="stylesheet" href="style.css">
 </head>
