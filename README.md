@@ -1,3 +1,5 @@
-## UI microservice
+## UniCredit Demo@CC-Activation-eu
+Madrid, 10-13th July
 
-This is the UI microservice for an online store application. This microservice is written in PHP, and requires a Catalog-API microservice and an Orders-API microservice.
+This is the Microservices application used to demonstrate Bluemix DevOps capabilities.
+
